@@ -1,0 +1,18 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="50" width="50" y="-1" x="-1"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_8">
+   <path stroke="null" fill="#ffffff" stroke-width="0.705556px" id="path4487" d="m0.595388,40.814468l46.709288,-0.000131l0,5.018824l-46.709288,0l0,-5.018693z"/>
+   <path stroke="null" fill="#ffffff" stroke-width="0.705556px" stroke-miterlimit="4" stroke-dashoffset="0" id="path4546" d="m0.589608,15.178049l21.615909,0l0,4.621357l-21.615909,0l0,-4.621357z"/>
+   <path stroke="null" fill="#ffffff" stroke-width="0.705556px" stroke-miterlimit="4" stroke-dashoffset="0" id="path4564" d="m32.85756,1.916836a8.975239,9.483298 0 0 0 -8.975362,9.483233a8.975239,9.483298 0 0 0 8.975362,9.483364a8.975239,9.483298 0 0 0 8.975239,-9.483364a8.975239,9.483298 0 0 0 -8.975239,-9.483233zm0,3.793136a5.385168,5.690031 0 0 1 5.385045,5.690097a5.385168,5.690031 0 0 1 -5.385045,5.6899a5.385168,5.690031 0 0 1 -5.385168,-5.6899a5.385168,5.690031 0 0 1 5.385168,-5.690097z"/>
+   <path stroke="null" fill="#ffffff" stroke-width="0.705556px" id="svg_1" d="m0.570325,27.747839l46.56748,-0.000131l0,5.018824l-46.56748,0l0,-5.018693z"/>
+   <path stroke="null" fill="#ffffff" stroke-width="0.705556px" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_2" d="m0.614673,2.665902l21.590766,0l0,4.621353l-21.590766,0l0,-4.621353z"/>
+   <path stroke="null" transform="rotate(45 41.66667938232423,19.769001007080075) " fill="#ffffff" stroke-width="0.705556px" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_6" d="m35.330376,17.81742l12.672611,0l0,3.903163l-12.672611,0l0,-3.903163z"/>
+  </g>
+ </g>
+</svg>
